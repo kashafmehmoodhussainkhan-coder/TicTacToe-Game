@@ -20,5 +20,7 @@ This project demonstrates the use of object-oriented programming concepts such a
 - The game ends when:
 - A player wins by forming a line (row, column, or diagonal).
 - The board is full (draw).
-- <img width="498" height="696" alt="image" src="https://github.com/user-attachments/assets/22b0eefe-3f75-4f68-be09-9b90828e81d6" />
+
+<img width="509" height="608" alt="image" src="https://github.com/user-attachments/assets/c33ee6b5-16be-4bdd-ac2d-d9e4fd3ba5ef" />
+
 
